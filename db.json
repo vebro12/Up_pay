@@ -1,6 +1,7 @@
 {
-  "reportData": [
-    {
+  "reportDataArray": [
+    [
+      {
       "date1": "19/06/2024",
       "reportType": "FED_IN_DAILY_VOL",
       "hourlyVolumes": [
@@ -125,8 +126,10 @@
           "time": "23"
         }
       ]
-    },
-    {
+    }
+  ]
+    ,
+    [{
       "date2": "20/06/2024",
       "reportType": "FED_IN_DAILY_VOL",
       "hourlyVolumes": [
@@ -253,4 +256,6 @@
       ]
     }
   ]
+]
+    
 }
